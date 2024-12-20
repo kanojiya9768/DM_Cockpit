@@ -2,7 +2,7 @@ import React from "react";
 import call from "../../../assets/footerfeatures/call247.svg";
 import SecureIMage from "../../../assets/footerfeatures/secure.svg";
 import star from "../../../assets/footerfeatures/star.svg";
-import { Footer } from "./Footer";
+import { Footer } from './Footer';
 
 const SupportData = [
   {
